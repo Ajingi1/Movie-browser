@@ -1,0 +1,24 @@
+footer{
+    background-color: #f0f0f0;
+}
+
+.footer-container{
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+}
+.footer-container ul .footer-list-item {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+    border: none;
+}
+
+.footer-container ul .footer-list-item  button{
+    padding: 5px;
+    border: none;
+    font-size: 1.2rem;
+    background-color: inherit;
+    border:  1ps solid #ccc;
+}
+
