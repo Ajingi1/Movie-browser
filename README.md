@@ -20,9 +20,9 @@ You may also see any lint errors in the console.
 
 
 ## 🔍 Before Search
-![Before Search](./images/Before search.png)
+![Before Search](./images/Before%20search.png)
 ##
 ##
 ## 🎯 After Search
-![After Search](./images/after-search.png)
+![After Search](./images/after%20search.png)
 
